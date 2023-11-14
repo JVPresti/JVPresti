@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am <a href="https://www.instagram.com/jorge_presti/">Jorge</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/GEXCrcL.png">
+<img src="https://i.imgur.com/9cbYuWQ.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/jvpresti?style=social)](https://github.com/JVPresti)
 
@@ -11,7 +11,12 @@
 - 💻 Knowledge of C, C++ and Kotlin
 - 📖 Learning Web Design (JavaScript, CSS, HTML)
 - 🎸 Fun Fact: I like to do some processes
-<br>
+
+## Languages
+
+![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=white&labelColor=FF00AA)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=AA00FF)
+![Static Badge](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=white&labelColor=0036FF)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
