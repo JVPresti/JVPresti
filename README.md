@@ -3,7 +3,8 @@
 </div>
 <img src="https://i.imgur.com/9cbYuWQ.png">
 
-[![GitHub followers](https://img.shields.io/github/followers/jvpresti?style=social)](https://github.com/JVPresti)
+![GitHub followers](https://img.shields.io/github/followers/jvpresti?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=BB99FF&labelColor=black&color=381D71)(https://github.com/JVPresti)
+![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## About me
 
@@ -14,9 +15,10 @@
 
 ## Languages
 
-![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=white&labelColor=FF00AA)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=AA00FF)
-![Static Badge](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=white&labelColor=0036FF)
+![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
