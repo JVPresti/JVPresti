@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am <a href="https://www.instagram.com/jorge_presti/">Jorge</a> 👋</h1>
 </div>
-<img src="https://imgur.com/NyGmtvW.png">
+<img src="https://i.imgur.com/GEXCrcL.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/jvpresti?style=social)](https://github.com/JVPresti)
 
