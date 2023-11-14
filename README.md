@@ -3,8 +3,9 @@
 </div>
 <img src="https://i.imgur.com/9cbYuWQ.png">
 
-![GitHub followers](https://img.shields.io/github/followers/jvpresti?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=BB99FF&labelColor=black&color=381D71)(https://github.com/JVPresti)
+[![GitHub followers](https://img.shields.io/github/followers/jvpresti?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=9A78DE&labelColor=black&color=9A78DE)](https://github.com/JVPresti)
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## About me
 
