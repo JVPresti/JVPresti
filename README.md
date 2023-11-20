@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I am <a href="https://www.instagram.com/jorge_presti/">Jorge</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/9cbYuWQ.png">
+<img src="https://i.imgur.com/dztjaPN.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/jvpresti?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=9A78DE&labelColor=black&color=9A78DE)](https://github.com/JVPresti)
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -9,7 +9,7 @@
 
 ## About me
 
-- 📲 Software Developer
+- 📲 Software Engineer
 - 💻 Knowledge of C, C++ and Kotlin
 - 📖 Learning Web Design (JavaScript, CSS, HTML)
 - 🎸 Fun Fact: I like to do some processes
